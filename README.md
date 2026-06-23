@@ -1,0 +1,1 @@
+## random page in that i use all my current knowledge about web development ##

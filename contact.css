@@ -1,0 +1,45 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body {
+    background: linear-gradient(rebeccapurple, green);
+}
+
+header {
+    text-align: center;
+    background: blueviolet;
+}
+
+nav {
+    background: rgb(62, 135, 128);
+    height: 20px;
+}
+
+nav ul li{
+    float: left;
+    list-style: none;
+    margin-left: 5px;
+}
+
+nav ul li a {
+    color: black;
+}
+
+section {
+    margin: 5px;
+}
+
+#form {
+    min-height: 500px;
+}
+
+footer {
+    text-align: center;
+}
+
+.clearfix {
+    clear: both;
+}
