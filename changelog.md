@@ -1,3 +1,9 @@
+# v0.0.3 6-23-2026
+- Added description list
+- Added textarea in `contact.html`
+- Added favicon in `contact.html`
+- Modify `README.md`
+
 # v0.0.2 6-23-2026
 - Added video
 - Added audio
