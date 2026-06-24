@@ -1,3 +1,10 @@
+# v0.0.4 6-24-2026
+- Added SEO tags
+- Added link states
+- Added `<em>` and `<strong`
+- Added img with caption
+- Added border and radius to image
+
 # v0.0.3 6-23-2026
 - Added description list
 - Added textarea in `contact.html`
