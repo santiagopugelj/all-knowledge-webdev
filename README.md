@@ -1,15 +1,26 @@
 ## random page in that i use all my current knowledge about web development ##
 
 ## future features: ##
-- SEO tags (I need train this)
-- links states= a:hover, active, etc
-- <em>, <strong>, etc
-- Iframe
-- Images, with captions
+x- SEO tags (I need train this)
+x- links states= a:hover, active, etc
+x- <em>, <strong>, etc
+x- Iframe
+x- Images (with alt), with captions
+x- Borders to media
 - Social sharing (OG)
-- Links (a) targets
+x- Links (a) targets
 - Use different and deeps file paths
-- Borders to media
-- (Add semantic html of fcc)
+
+- Semantic HTML:
+x- description list
+- blockquote, citation (cite)
+- abbreviation
+- address
+- time
+x- superscript
+x- subscript
+- inline code
+- preformatted text
+x- internal links
 
 ## When i complete all, delete all and start again ##

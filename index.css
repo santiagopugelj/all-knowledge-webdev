@@ -102,6 +102,11 @@ video {
     width: 400px;
 }
 
+iframe {
+    width: 400px;
+    height: 300px;
+}
+
 footer {
     text-align: center;
 }

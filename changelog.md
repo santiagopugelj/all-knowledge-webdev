@@ -1,3 +1,8 @@
+# v0.0.5 6-24-2026
+- Added iframe from youtube
+- Added superscript and subscript
+- Added internal links
+
 # v0.0.4 6-24-2026
 - Added SEO tags
 - Added link states
