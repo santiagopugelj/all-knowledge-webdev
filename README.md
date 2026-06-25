@@ -13,8 +13,8 @@ x- Links (a) targets
 
 - Semantic HTML:
 x- description list
-- blockquote, citation (cite)
-- abbreviation
+x- blockquote, citation (cite)
+x- abbreviation
 - address
 - time
 x- superscript
@@ -22,5 +22,9 @@ x- subscript
 - inline code
 - preformatted text
 x- internal links
+
+- Forms and tables:
+- Form
+- Table
 
 ## When i complete all, delete all and start again ##

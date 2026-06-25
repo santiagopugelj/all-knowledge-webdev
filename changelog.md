@@ -1,3 +1,7 @@
+# v0.0.6 6-25-2026
+- Added blockquote and cite
+- Added `<abbr>`
+
 # v0.0.5 6-24-2026
 - Added iframe from youtube
 - Added superscript and subscript

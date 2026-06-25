@@ -8,7 +8,7 @@ body {
     background: black;
 }
 
-h1, p, h2, dl, figcaption {
+h1, p, h2, dl, figcaption, blockquote {
     color: gainsboro;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
@@ -96,6 +96,10 @@ img {
     min-height: 500px;
     background-color: rgb(12, 69, 69);
     padding: 5px;
+}
+
+blockquote, cite {
+    margin-left: 20px;
 }
 
 video {
