@@ -1,3 +1,6 @@
+# v0.0.7 6-27-2026
+- Added more elements in contact form
+
 # v0.0.6 6-25-2026
 - Added blockquote and cite
 - Added `<abbr>`
