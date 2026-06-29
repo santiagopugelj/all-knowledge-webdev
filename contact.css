@@ -63,3 +63,22 @@ footer {
 .clearfix {
     clear: both;
 }
+
+input {
+    background: turquoise;
+    border: solid 3px teal;
+    border-radius: 5px;
+}
+
+textarea {
+    background: turquoise;
+    border: solid 3px teal;
+    border-radius: 15px;
+}
+
+button {
+    background: turquoise;
+    border: solid 3px teal;
+    border-radius: 15px;
+    width: 60px;
+}

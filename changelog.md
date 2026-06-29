@@ -1,3 +1,6 @@
+# v0.0.8 6-29-2026
+- Modify style of input, textarea and button in contact form with background and border properties
+
 # v0.0.7 6-27-2026
 - Added more elements in contact form
 
