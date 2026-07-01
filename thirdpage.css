@@ -1,0 +1,55 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    text-align: center;
+}
+
+body {
+    background: slategray;
+}
+
+nav ul li {
+    float: left;
+    list-style: none;
+    margin-left: 5px;
+}
+
+.clearfix {
+    clear: both;
+}
+
+#art-1 {
+    background: radial-gradient(green, black, yellow, red, purple);
+    height: 100px;
+    width: 50%;
+    float: left;
+    border: solid 3px rgb(62, 8, 8);
+}
+
+#art-2 {
+    background: linear-gradient(red, yellow, green, magenta, pink, rebeccapurple);
+    height: 100px;
+    width: 50%;
+    float: left;
+    border: solid;
+}
+
+#art-3 {
+    background: linear-gradient(blue, white, yellow, white, blue);
+    height: 100px;
+    width: 50%;
+    float: left;
+    border: solid;
+}
+
+#art-4 {
+    background: radial-gradient(blue, pink, yellow, purple, red, magenta, grey, white, tomato, rebeccapurple, cyan, darkred);
+    height: 100px;
+    width: 50%;
+    float: left;
+    border: solid;
+}

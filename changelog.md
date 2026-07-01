@@ -1,3 +1,9 @@
+# v0.0.10 7-1-2026
+- Restart page from zero
+- Create `index.html`
+- Create `styles.css`
+- Create third page and give style
+
 # v0.0.9 7-1-2026
 - Add font from google fonts
 

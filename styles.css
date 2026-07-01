@@ -1,0 +1,41 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: teal;
+}
+
+header h1 {
+    text-align: center;
+    text-decoration: line-through underline;
+    color: rgb(99, 34, 34);
+}
+
+nav ul li {
+    float: left;
+    list-style: none;
+    margin-left: 5px;
+}
+
+.clearfix {
+    clear: both;
+}
+
+img {
+    width: 400px;
+}
+
+#sec-1 {
+    float: left;
+    width: 50%;
+    background: radial-gradient(rgb(20, 128, 20), rgb(34, 100, 154));
+}
+
+#sec-2 {
+    float: left;
+    width: 50%;
+    background: rgb(32, 95, 127);
+}
