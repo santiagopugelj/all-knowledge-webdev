@@ -4,6 +4,11 @@
     box-sizing: border-box;
 }
 
+p, h1 {
+    font-family: "Playfair Display";
+}
+
+
 body {
     background: linear-gradient(rebeccapurple, green);
 }
