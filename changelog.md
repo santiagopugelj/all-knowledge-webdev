@@ -1,3 +1,6 @@
+# v0.0.11 7-2-2026
+- Add padding to articles
+
 # v0.0.10 7-1-2026
 - Restart page from zero
 - Create `index.html`

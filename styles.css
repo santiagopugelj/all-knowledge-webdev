@@ -32,10 +32,12 @@ img {
     float: left;
     width: 50%;
     background: radial-gradient(rgb(20, 128, 20), rgb(34, 100, 154));
+    padding: 3px;
 }
 
 #sec-2 {
     float: left;
     width: 50%;
     background: rgb(32, 95, 127);
+    padding: 3px;
 }
