@@ -1,3 +1,7 @@
+# v0.0.12 7-4-2026
+- Add `alt` and `title` to images
+- Add `figure` and `figcaption` to images
+
 # v0.0.11 7-2-2026
 - Add padding to articles
 

@@ -5,7 +5,7 @@
 - links states= a:hover, active, etc
 - <em>, <strong>, etc
 - Iframe
-- Images (with alt), with captions
+X- Images (with alt), with captions
 - Borders to media
 - Social sharing (OG)
 - Links (a) targets
