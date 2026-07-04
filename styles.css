@@ -5,13 +5,14 @@
 }
 
 body {
-    background: teal;
+    background: url(https://i.pinimg.com/vwebp/1200x/25/aa/1a/25aa1a16b78d63f639b04b8427d4f2d6.webp);
 }
 
 header h1 {
     text-align: center;
     text-decoration: line-through underline;
     color: rgb(99, 34, 34);
+    font-size: 50px;
 }
 
 nav ul li {
@@ -26,6 +27,8 @@ nav ul li {
 
 img {
     width: 400px;
+    border: 5px solid;
+    border-radius: 10px;
 }
 
 #sec-1 {
@@ -40,4 +43,8 @@ img {
     width: 50%;
     background: rgb(32, 95, 127);
     padding: 3px;
+}
+
+.con {
+    color: brown;
 }

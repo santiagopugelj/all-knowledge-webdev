@@ -1,3 +1,11 @@
+# v0.0.13 7-4-2026
+- Add borders to images
+- Add image as a background 
+- Add font size to h1
+- Add `<span>` with selector (class)
+- Create contact form
+- Add favicons
+
 # v0.0.12 7-4-2026
 - Add `alt` and `title` to images
 - Add `figure` and `figcaption` to images
