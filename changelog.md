@@ -1,3 +1,6 @@
+# v0.0.14 7-5-2026
+- Add more meta tags
+
 # v0.0.13 7-4-2026
 - Add borders to images
 - Add image as a background 
