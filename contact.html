@@ -4,8 +4,8 @@
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>Contact</title>
-        <link rel="stylesheet" href="contact.css">
-        <link rel="icon" href="icons8-minecraft-grass-cube-48.png">
+        <link rel="stylesheet" href="css/contact.css">
+        <link rel="icon" href="favicons/icons8-minecraft-grass-cube-48.png">
     </head>
     <body>
         <header>
@@ -22,15 +22,19 @@
         <main>
             <form>
                 <label for="fname">Full Name:</label>
-                <input type="text" id="fname" placeholder="e.g. José Johnson">
+                <input type="text" id="fname" placeholder="e.g. José Johnson" required minlength="4" maxlength="30">
+
                 <br>
                 <label>You are minecraftian?</label>
-
                 <label for="yes">Yes</label>
                 <input type="radio" id="yes" name="option" value="1">
                 <label for="no">No</label>
                 <input type="radio" id="no" name="option" value="0">
-
+                
+                <br>
+                <label for="age">How old are you?</label>
+                <input id="age" type="number" minlength="3" maxlength="200" placeholder="e.g. 136">
+                
                 <br>
                 <label for="email">Enter your email</label>
                 <input type="email" id="email" placeholder="e.g. minecrafter@mail.com">
