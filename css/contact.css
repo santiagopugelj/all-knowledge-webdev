@@ -28,7 +28,8 @@ form {
     width: 400px;
     margin: auto;
     padding-top: 10px;
-    padding-bottom: 10px
+    padding-bottom: 10px;
+    border: solid #0001;
 }
 
 textarea {
@@ -37,4 +38,10 @@ textarea {
 
 input {
     margin-top: 3px;
+}
+
+fieldset {
+    border: solid #0001;
+    padding-top: 0;
+    padding-bottom: 6px;
 }
