@@ -27,4 +27,8 @@ X- Images (with alt), with captions
 - Form
 - Table
 
+# Add:
+- Add link attributes: noreferer, noopener, etc
+
+
 ## When i complete all, delete all and start again ##

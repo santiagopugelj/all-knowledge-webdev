@@ -1,5 +1,11 @@
-# v0.0.17 7-9-2026
+# v0.0.19 7-10-2026
+- Add more headings title for practice accebility
+
+# v0.0.18 7-9-2026
 - Add fieldset and legend in form
+
+# v0.0.17 7-8-2026
+- Add description list
 
 # v0.0.16 7-6-2026
 - Create `tables.html`
