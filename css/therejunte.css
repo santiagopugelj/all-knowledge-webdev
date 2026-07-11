@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+nav ul li {
+    float: left;
+    list-style: none;
+    margin: 5px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+body {
+    background: url(/images/star-wars-virtual-background-2026-46_6620bc63.jpeg);
+    background-size: cover;
+}
+
+h1, h2 {
+    text-align: center;
+    color: blueviolet;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.clearfix {
+    clear: both;
+}
+
+img#jack {
+    height: 400px;
+}
+
+#los-pibes {
+    margin-top: 100px;
+}

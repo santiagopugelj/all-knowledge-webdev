@@ -6,16 +6,19 @@
 
 header h1 {
     text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
 nav ul li {
     float:left;
     list-style: none;
     margin: 5px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
 body {
     background: url(https://i.pinimg.com/vwebp/1200x/2e/e4/a2/2ee4a2504d3d90537f4857cd5e621e5f.webp);
+    background-size: cover;
 }
 
 .clearfix {

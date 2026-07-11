@@ -22,6 +22,7 @@ nav ul li {
     float: left;
     list-style: none;
     margin: 5px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
 .clearfix {

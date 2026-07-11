@@ -6,6 +6,7 @@
 
 body {
     background: url(https://i.pinimg.com/vwebp/1200x/25/aa/1a/25aa1a16b78d63f639b04b8427d4f2d6.webp);
+    background-size: cover;
 }
 
 header h1 {
@@ -13,12 +14,26 @@ header h1 {
     text-decoration: line-through underline;
     color: rgb(99, 34, 34);
     font-size: 50px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+h2 {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
+}
+
+p {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+dl {
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 nav ul li {
     float: left;
     list-style: none;
     margin-left: 5px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
 .clearfix {

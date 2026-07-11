@@ -4,6 +4,10 @@
     box-sizing: border-box;
 }
 
+h1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
 header {
     text-align: center;
 }
@@ -52,4 +56,11 @@ nav ul li {
     width: 50%;
     float: left;
     border: solid;
+}
+
+code {
+    color: rgb(192, 188, 188);
+    background: #0009;
+    padding: 5px;
+    border-radius: 5px;
 }
