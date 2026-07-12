@@ -1,3 +1,7 @@
+# v0.0.21 7-12-2026
+- Add js in therejunte, specifically alert when touch the characters
+- Create jspage for train JS
+
 # v0.0.20 7-11-2026
 - Create therejunte
 - Add more fonts

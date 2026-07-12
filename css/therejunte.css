@@ -16,7 +16,7 @@ body {
     background-size: cover;
 }
 
-h1, h2 {
+h1, h2, p {
     text-align: center;
     color: blueviolet;
     font-family: 'Courier New', Courier, monospace;
@@ -28,6 +28,10 @@ h1, h2 {
 
 img#jack {
     height: 400px;
+}
+
+img#elon {
+    height: 500px;
 }
 
 #los-pibes {
