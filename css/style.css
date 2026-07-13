@@ -63,3 +63,7 @@ img {
 .con {
     color: brown;
 }
+
+main section article p strong {
+    color: bisque
+}

@@ -26,6 +26,7 @@ body {
 }
 
 form {
+    font-family: cursive;
     text-align: center;
     background: #0005;
     width: 400px;
@@ -37,10 +38,16 @@ form {
 
 textarea {
     margin-top: 3px;
+    font-family: inherit;
 }
 
 input {
     margin-top: 3px;
+    font-family: inherit;
+}
+
+button {
+    font-family: inherit;
 }
 
 fieldset {

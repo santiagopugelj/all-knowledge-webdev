@@ -1,3 +1,8 @@
+# v0.0.22 7-13-2026
+- Add `inherit` in font family in contact form
+- Add advaced selector
+- Create a calculator with js in `calculator.html`
+
 # v0.0.21 7-12-2026
 - Add js in therejunte, specifically alert when touch the characters
 - Create jspage for train JS
