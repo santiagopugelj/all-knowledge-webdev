@@ -1,3 +1,7 @@
+# v0.0.23 7-14-26
+- Add pseudo-class in css of `index.html` (`style.css`)
+- Add pseudo-element in `thirdpage.css`
+
 # v0.0.22 7-13-2026
 - Add `inherit` in font family in contact form
 - Add advaced selector

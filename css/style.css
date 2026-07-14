@@ -67,3 +67,8 @@ img {
 main section article p strong {
     color: bisque
 }
+
+h1:hover {
+    color: rebeccapurple; 
+    text-transform: uppercase;
+}
