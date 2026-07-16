@@ -1,3 +1,6 @@
+# v0.0.24 7-16-26
+- Add color background in `li:hover` in nav
+
 # v0.0.23 7-14-26
 - Add pseudo-class in css of `index.html` (`style.css`)
 - Add pseudo-element in `thirdpage.css`

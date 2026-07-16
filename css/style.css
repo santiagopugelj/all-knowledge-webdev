@@ -34,6 +34,8 @@ nav ul li {
     list-style: none;
     margin-left: 5px;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    height: 100%;
+    padding: 2px;
 }
 
 .clearfix {
@@ -71,4 +73,13 @@ main section article p strong {
 h1:hover {
     color: rebeccapurple; 
     text-transform: uppercase;
+}
+
+header nav ul{
+    height: 1.5em;
+    background: green;
+}
+
+header nav ul li:hover {
+    background: rgb(16, 171, 16);
 }
