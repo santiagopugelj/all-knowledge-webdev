@@ -1,5 +1,8 @@
 ## random page in that i use all my current knowledge about web development ##
 
+- Train a lot of much the things that i need for create a web site, for example login forms
+
+
 ## future features: ##
 - SEO tags (I need train this)
 - links states= a:hover, active, etc

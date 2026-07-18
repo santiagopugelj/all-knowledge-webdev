@@ -1,0 +1,41 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    background-color: antiquewhite;
+    min-height: 100vh;
+}
+
+header {
+    background-color: burlywood;
+}
+
+nav {
+    background-color: cornflowerblue;
+}
+
+h1, h2 {
+    text-align: center;
+}
+
+main {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#login-form {
+    border: solid 1px #000;
+    background-color: aquamarine;
+    width: 300px;
+}
+
+footer {
+    text-align: center;
+    background-color: thistle;
+}
