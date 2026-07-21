@@ -1,3 +1,7 @@
+# v0.0.27 2026-7-21
+- Add read the content of inputs Username and Password in login folder
+- Add fake login validation
+
 # v0.0.26 2026-7-20
 - Add event listener when click "log in" (submit) in login form
 - Change date format in changelog for good practices
